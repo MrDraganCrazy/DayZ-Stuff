@@ -75,7 +75,7 @@ class CustomMission: MissionServer
 	{
 		player.RemoveAllItems();
 		
-		player.GetInventory().CreateInInventory("Crazy_Prisoner_Shirt");
+		player.GetInventory().CreateInInventory("Crazy_Prisoner_Shirt");  HERE GO YOU CLOTHING MOD OR VANILLA CLOTHING
 		player.GetInventory().CreateInInventory("Crazy_Prisoner_Pants");
 		player.GetInventory().CreateInInventory("Crazy_Shoes_Prisoner");
 		player.GetInventory().CreateInInventory("Crazy_Radler");
