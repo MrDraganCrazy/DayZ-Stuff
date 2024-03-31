@@ -6,12 +6,7 @@
         <text>WHEN YOU LEAVE SERVER,PARK YOUR VEHICLE IN THE GARAGE</text>
     </message>
     
-	<message>
-        <repeat>15</repeat>
-        <text>RESTARTS 07:57//11:59//15:59//19:56//23:57//03:57</text>
-    </message>
-    
-	<message>
+    <message>
         <repeat>20</repeat>
         <text>READ RULES IN CRAZY DAYZ DISCORD</text>
     </message>
