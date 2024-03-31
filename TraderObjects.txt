@@ -1,0 +1,229 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+// CRAZY TRADER:
+
+<TraderMarker> 			0
+<TraderMarkerPosition>	8325.625000, 292.974487, 5962.394531
+<TraderMarkerSafezone>	50
+
+<TraderMarker> 			1
+<TraderMarkerPosition>	8325.385742, 292.974487, 5968.232910
+<TraderMarkerSafezone>	50
+
+<TraderMarker> 			2
+<TraderMarkerPosition>	8323.784180, 292.974518, 5955.712891
+<TraderMarkerSafezone>	50
+
+<TraderMarker> 			3
+<TraderMarkerPosition>	8325.431641, 292.974518, 5953.457031
+<TraderMarkerSafezone>	50
+
+<TraderMarker> 			4
+<TraderMarkerPosition>	8327.249023, 292.974518, 5950.955566
+<TraderMarkerSafezone>	30
+
+<TraderMarker> 			5
+<TraderMarkerPosition>	8347.708984, 292.045624, 5977.115723
+<TraderMarkerSafezone>	50
+<VehicleSpawn>			8357.222656, 292.008698, 5980.258789
+<VehicleSpawnOri>		-15.734777, 0.000000, 0.000000
+
+
+// BLACK TRADER:
+
+<TraderMarker> 			6
+<TraderMarkerPosition>	4353.831055, 435.096802, 15019.083008
+<TraderMarkerSafezone>	5
+
+// COLLECTABLE TRADER:
+
+<TraderMarker> 			7
+<TraderMarkerPosition>	2703.095459, 5.100536, 1260.098999
+<TraderMarkerSafezone>	5
+
+// HUNTING TRADER:
+
+<TraderMarker> 			8
+<TraderMarkerPosition>	6731.152344, 336.776581, 6644.183105
+<TraderMarkerSafezone>	10
+
+// MEGA GEAR TRADER:
+
+<TraderMarker> 			9
+<TraderMarkerPosition>	8318.281250, 292.974518, 5963.019531
+<TraderMarkerSafezone>	50
+
+// DRUG TRADER:
+
+<TraderMarker> 			10
+<TraderMarkerPosition>	13312.043945, 16.362951, 2770.653809
+<TraderMarkerSafezone>	5
+
+// HELI TRADER:
+
+<TraderMarker> 			11
+<TraderMarkerPosition>	13636.810547, 44.002972, 2975.857178
+<TraderMarkerSafezone>	2
+<VehicleSpawn>			13644.520508, 44.362919, 2957.017090		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
+<VehicleSpawnOri>		-42.942822, 0.000000, 0.000000
+
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+	
+
+// CRAZY TRADER:
+
+<Object> 			SurvivorM_Niki
+<ObjectPosition>	8325.625000, 292.974487, 5962.394531
+<ObjectOrientation>	-40.357944, -0.000000, 0.000000
+<ObjectAttachment>	WaterBottle
+<ObjectAttachment>	SurgicalGloves_Green
+<ObjectAttachment>	MedicalScrubsHat_White
+<ObjectAttachment>	SurgicalMask
+<ObjectAttachment>	MVS_Shirt_BDU_Multicam_Black
+<ObjectAttachment>	MVS_CombatPants_Black
+<ObjectAttachment>	CombatBoots_Black
+
+<Object> 			SurvivorF_Maria
+<ObjectPosition>	8325.385742, 292.974487, 5968.232910
+<ObjectOrientation>	-171.157562, 0.000000, -0.000000
+<ObjectAttachment>	Screwdriver
+<ObjectAttachment>	Shovel
+<ObjectAttachment>	WorkingGloves_Yellow
+<ObjectAttachment>	ConstructionHelmet_Yellow
+<ObjectAttachment>	MVS_Shirt_BDU_Multicam_Black
+<ObjectAttachment>	MVS_CombatPants_Black
+<ObjectAttachment>	CombatBoots_Black
+
+<Object> 			SurvivorM_Hassan
+<ObjectPosition>	8323.784180, 292.974518, 5955.712891
+<ObjectOrientation>	45.162262, 0.000000, -0.000000
+<ObjectAttachment>	FirefighterAxe
+<ObjectAttachment>	AKM
+<ObjectAttachment>	AK_WoodHndgrd
+<ObjectAttachment>	AK_FoldingBttstck
+<ObjectAttachment>	KobraOptic
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	TacticalGoggles
+<ObjectAttachment>	TacticalGloves_Green
+<ObjectAttachment>	GorkaHelmet
+<ObjectAttachment>	BandanaMask_CamoPattern
+<ObjectAttachment>	UKAssVest_Camo
+<ObjectAttachment>	MVS_Shirt_BDU_Multicam_Black
+<ObjectAttachment>	MVS_CombatPants_Black
+<ObjectAttachment>	CombatBoots_Black
+
+<Object> 			SurvivorM_Elias
+<ObjectPosition>	8325.431641, 292.974518, 5953.457031
+<ObjectOrientation>	62.155777, 0.000000, -0.000000
+<ObjectAttachment>	AmmoBox_9x19_25rnd
+<ObjectAttachment>	NailedBaseballBat
+<ObjectAttachment>	MP5K
+<ObjectAttachment>	MP5_RailHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	MP5k_StockBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	MP5_Compensator
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	BallisticHelmet_Green
+<ObjectAttachment>	BandanaMask_CamoPattern
+<ObjectAttachment>	HighCapacityVest_Olive
+<ObjectAttachment>	MVS_Shirt_BDU_Multicam_Black
+<ObjectAttachment>	MVS_CombatPants_Black
+<ObjectAttachment>	CombatBoots_Black
+
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	8327.249023, 292.974518, 5950.955566
+<ObjectOrientation>	47.067997, 0.000000, -0.000000
+<ObjectAttachment>	Crazy_WarriorHelmet_Gold
+<ObjectAttachment>	MVS_Shirt_BDU_Multicam_Black
+<ObjectAttachment>	MVS_CombatPants_Black
+<ObjectAttachment>	CombatBoots_Black
+
+<Object> 			SurvivorM_Jose
+<ObjectPosition>	8347.708984, 292.045624, 5977.115723
+<ObjectOrientation>	52.717098, 0.000000, -0.000000
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
+ 
+// BLACK TRADER:
+
+<Object> 			SurvivorM_Hassan
+<ObjectPosition>	4353.831055, 435.096802, 15019.083008
+<ObjectOrientation>	169.803146, 0.000000, -0.000000
+<ObjectAttachment>	BARSIK_VSSK_GOLD
+<ObjectAttachment>	Crazy_HoodNBC
+<ObjectAttachment>	Crazy_GlovesNBC
+<ObjectAttachment>	Crazy_JacketBBC
+<ObjectAttachment>	Crazy_PantsBBC
+<ObjectAttachment>	Crazy_BootsNBC
+<ObjectAttachment>	Crazy_GP5GasMask
+
+// COLLECTABLE TRADER:
+
+<Object> 			SurvivorM_Elias
+<ObjectPosition>	2703.095459, 5.100536, 1260.098999
+<ObjectOrientation>	6.799552, 0.000000, -0.000000
+<ObjectAttachment>	TeddyBear_Cannabis
+<ObjectAttachment>	TacticalGoggles
+<ObjectAttachment>	TacticalGloves_Green
+<ObjectAttachment>	MVS_Shirt_BDU_Multicam_Black
+<ObjectAttachment>	MVS_CombatPants_Black
+<ObjectAttachment>	CombatBoots_Black
+
+// HUNTING TRADER:
+
+<Object> 			SurvivorM_Elias
+<ObjectPosition>	6731.152344, 336.776581, 6644.183105
+<ObjectOrientation>	-142.576370, 0.000000, -0.000000
+<ObjectAttachment>	HuntingJacket_Summer
+<ObjectAttachment>	HunterPants_Summer
+<ObjectAttachment>	HuntingVest
+<ObjectAttachment>	Crossbow_Summer
+<ObjectAttachment>	CombatBoots_Brown
+
+// MEGA GEAR TRADER:
+
+<Object> 			SurvivorM_Hassan
+<ObjectPosition>	8318.281250, 292.974518, 5963.019531
+<ObjectOrientation>	68.081093, 0.000000, -0.000000
+<ObjectAttachment>	TacticalGloves_Black
+<ObjectAttachment>	MVS_OpsCore_Multicam_Black
+<ObjectAttachment>	MVS_CombatShirt_ERDL
+<ObjectAttachment>	MVS_CombatPants_ERDL
+<ObjectAttachment>	MVS_ChestRig_ERDL
+<ObjectAttachment>	MVS_Rucksack_ERDL
+<ObjectAttachment>	CombatBoots_Black
+
+// DRUG TRADER:
+
+<Object> 			SurvivorM_Jose
+<ObjectPosition>	13312.043945, 16.362951, 2770.653809
+<ObjectOrientation>	71.885933, 0.000000, -0.000000
+<ObjectAttachment>	Crazy_HoodNBC
+<ObjectAttachment>	Crazy_GlovesNBC
+<ObjectAttachment>	Crazy_JacketBBC
+<ObjectAttachment>	Crazy_PantsBBC
+<ObjectAttachment>	Crazy_BootsNBC
+<ObjectAttachment>	Crazy_GP5GasMask
+
+// HELI TRADER:
+
+<Object> 			SurvivorM_Hassan
+<ObjectPosition>	13636.810547, 44.002972, 2975.857178
+<ObjectOrientation>	166.887161, 0.000000, -0.000000
+<ObjectAttachment>	TacticalGloves_Black
+<ObjectAttachment>	MVS_CombatShirt_Multicam_Black
+<ObjectAttachment>	MVS_CombatPants_Multicam_Black
+<ObjectAttachment>	MVS_Combat_Vest_Heavy_Multicam_Black
+<ObjectAttachment>	MVS_OpsCore_Multicam_Black
+<ObjectAttachment>	CombatBoots_Black
+
+
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!

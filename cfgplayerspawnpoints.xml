@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<playerspawnpoints>
+    <fresh>
+        <spawn_params>
+            <min_dist_infected>30</min_dist_infected>
+            <max_dist_infected>70</max_dist_infected>
+            <min_dist_player>60</min_dist_player>
+            <max_dist_player>100</max_dist_player>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>200</grid_width>
+            <grid_height>200</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="WestCherno" lifetime="240" counter="-1">
+                <pos x="6063.018555" z="1931.907227" />
+                <pos x="5933.964844" z="2171.072998" />
+                <pos x="6199.782715" z="2241.805176" />
+                <pos x="13552.5654" z="5955.893066" />
+            </group>
+            <group name="EastCherno" lifetime="240" counter="-1">
+                <pos x="8040.858398" z="3332.236328" />
+                <pos x="8207.115234" z="3115.650635" />
+                <pos x="7992.118652" z="3188.600342" />
+                <pos x="8380.115234" z="3034.180664" />
+            </group>
+            <group name="WestElektro" lifetime="240" counter="-1">
+                <pos x="8747.670898" z="2357.187012" />
+                <pos x="9363.6533" z="2017.953613" />
+                <pos x="9488.868164" z="1898.900269" />
+                <pos x="9675.2216" z="1817.324585" />
+                <pos x="9821.274414" z="2194.003662" />
+            </group>
+            <group name="EastElektro" lifetime="240" counter="-1">
+                <pos x="10576.979492" z="2050.905762" />
+                <pos x="10772.804688" z="2277.397705" />
+                <pos x="10797.137695" z="2538.306152" />
+                <pos x="10984.605469" z="2750.329102" />
+            </group>
+            <group name="SouthBerezino" lifetime="240" counter="-1">
+                <pos x="12640.7812" z="9450.762695" />
+                <pos x="12862.712891" z="9249.855469" />
+                <pos x="13005.946289" z="9568.704102" />
+            </group>
+            <group name="NorthBerezino" lifetime="240" counter="-1">
+                <pos x="13161.286133" z="10329.4687" />
+                <pos x="12948.619141" z="10340.148438" />
+                <pos x="12592.173828" z="10401.323242" />
+                <pos x="13200.238281" z="10538.880859" />
+                <pos x="14409.652344" z="13367.867188" />
+                <pos x="14089.254883" z="13036.227539" />
+                <pos x="13886.412109" z="13056.755859" />
+                <pos x="13968.963867" z="13515.464844" />
+            </group>
+        </generator_posbubbles>
+    </fresh>
+    <hop>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>false</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Balota">
+                <pos x="4320.891602" z="2399.313721" />
+                <pos x="4472.7187" z="2280.847" />
+                <pos x="4347.119629" z="2917.295898" />
+                <pos x="4304.191895" z="3294.353027" />
+                <pos x="4474.162598" z="3271.538574" />
+                <pos x="4030.898926" z="3116.196533" />
+            </group>
+            <group name="Cherno">
+                <pos x="5415.805664" z="3086.321777" />
+                <pos x="5576.453125" z="3491.097656" />
+                <pos x="5436.245605" z="3618.071045" />
+                <pos x="5181.5141" z="3534.640869" />
+                <pos x="5125.481445" z="4272.944336" />
+            </group>
+            <group name="Pusta">
+                <pos x="9283.116211" z="3120.126709" />
+                <pos x="9459.523438" z="3171.398926" />
+                <pos x="9910.019531" z="3131.640869" />
+                <pos x="9499.517578" z="3831.467773" />
+                <pos x="9286.545898" z="4168.070801" />
+            </group>
+            <group name="Berezino">
+                <pos x="11076.291992" z="8907.307617" />
+                <pos x="10644.374023" z="9722.870117" />
+                <pos x="10833.330078" z="9833.011719" />
+                <pos x="10708.794922" z="9061.509766" />
+                <pos x="10088.522461" z="9276.926758" />
+            </group>
+        </generator_posbubbles>
+    </hop>
+    <travel>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+       <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>false</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Balota">
+                <pos x="4320.891602" z="2399.313721" />
+                <pos x="4472.7187" z="2280.847" />
+                <pos x="4347.119629" z="2917.295898" />
+                <pos x="4304.191895" z="3294.353027" />
+                <pos x="4474.162598" z="3271.538574" />
+                <pos x="4030.898926" z="3116.196533" />
+            </group>
+            <group name="Cherno">
+                <pos x="5415.805664" z="3086.321777" />
+                <pos x="5576.453125" z="3491.097656" />
+                <pos x="5436.245605" z="3618.071045" />
+                <pos x="5181.5141" z="3534.640869" />
+                <pos x="5125.481445" z="4272.944336" />
+            </group>
+            <group name="Berezino">
+                <pos x="11076.291992" z="8907.307617" />
+                <pos x="10644.374023" z="9722.870117" />
+                <pos x="10833.330078" z="9833.011719" />
+                <pos x="10708.794922" z="9061.509766" />
+                <pos x="10088.522461" z="9276.926758" />
+            </group>
+        </generator_posbubbles>
+    </travel>
+</playerspawnpoints>

@@ -1,0 +1,145 @@
+[
+    {
+        "Name": "BLACK TRADER",
+        "Pos": [
+            4353.831055,
+            435.096802,
+            15019.083008
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            255,
+            0,
+            0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": 60
+    },
+	{
+        "Name": "DRUG TRADER", 
+        "Pos": [
+            13312.043945,
+            16.362951,
+            2770.653809
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            240,
+            255,
+            0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": 60
+    },
+    {
+        "Name": "CRAZY TRADER",
+        "Pos": [
+            8345.6103515625,
+            292.302001953125,
+            5985.93017578125
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            12,
+            255,
+            0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "chernarusplus",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+	{
+        "Name": "HELI TRADER", 
+        "Pos": [
+            13636.810547,
+            44.002972,
+            2975.857178
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            240,
+            255,
+            0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": 60
+    },
+	{
+        "Name": "HUNTING TRADER",
+        "Pos": [
+            6731.152344,
+            336.776581,
+            6644.183105
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            0,
+            43,
+            255
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": 60
+    },
+	{
+        "Name": "COLLECTABLE TRADER",
+        "Pos": [
+            2703.095459,
+            5.100536,
+            1260.098999
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            0,
+            255,
+            19
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": 60
+    },
+	{
+        "Name": "MR CRAZY ISLAND",
+        "Pos": [
+            13704.841797,
+            21.543419,
+            9987.329102
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            255,
+            255,
+            255
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": 60
+    }
+]

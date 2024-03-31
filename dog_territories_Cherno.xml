@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<territory-type>
+    <territory color="3556750600">
+        <zone name="Zone_dog" smin="0" smax="0" dmin="6" dmax="6" x="8348.56" z="5986.62" r="20" />
+		<zone name="Zone_dog" smin="0" smax="0" dmin="6" dmax="6" x="7544.64" z="5140.17" r="20" />
+		<zone name="Zone_dog" smin="0" smax="0" dmin="6" dmax="6" x="12461.23" z="9631.47" r="20" />
+		<zone name="Zone_dog" smin="0" smax="0" dmin="6" dmax="6" x="10289.58" z="2045.28" r="20" />
+    </territory>
+</territory-type>

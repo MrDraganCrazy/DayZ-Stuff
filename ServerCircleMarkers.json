@@ -1,0 +1,71 @@
+[
+     {
+        "Name": "CRAZY TRADER",
+        "Pos": [
+            8324.939453,
+            292.974487,
+            5962.712402
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            12,
+            255,
+            0
+        ],
+        "Alpha": 180,
+	"Radius": 150,
+	"ShowCenterMarker": 0,
+	"HideIntersects": 1,
+	"HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0
+    },
+	{
+        "Name": "MR CRAZY ISLAND",
+        "Pos": [
+            13704.841797,
+            21.543419,
+            9987.329102
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            0,
+            255,
+            243
+        ],
+        "Alpha": 180,
+	"Radius": 80,
+	"ShowCenterMarker": 0,
+	"HideIntersects": 1,
+	"HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0
+    },
+	{
+        "Name": "BLACK TRADER",
+        "Pos": [
+            4353.831055,
+            435.096802,
+            15019.083008
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            197,
+            255,
+            0
+        ],
+        "Alpha": 180,
+	"Radius": 50,
+	"ShowCenterMarker": 0,
+	"HideIntersects": 1,
+	"HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0
+    }
+]
